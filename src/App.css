@@ -1,0 +1,10 @@
+
+body{
+  background: #EDEDED;
+}
+.navbar {
+  background-image: linear-gradient(to right, #141e30,#243b55);
+}
+.RMbtn{
+  background-image: linear-gradient(to top, #141e30,#243b55);
+}
